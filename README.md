@@ -1,0 +1,2 @@
+# AgenLogikaBAB6
+tolong
