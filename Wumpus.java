@@ -5,7 +5,7 @@
  */
 import java.util.*;
 
-public class wumpus {
+public class Wumpus {
     static int scream = 0;
     static int score = 0;
     static int complete = 0;
